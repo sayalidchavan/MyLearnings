@@ -1,11 +1,12 @@
 # Reading and printing x,y,z axes data from excel using python.
 ##################### Libraries Used #########################.
-- Library name1:Why it is used.
-- Library name2:Why it is used.
+- pandas:To read excel file as a dataframe it is used.
+- xlrd  :xlrd is a library for reading excel files(.xlsx,.xls) in python
 
 ##########################################################.
 
 ##################### Purpose of code ########################.
-- What is done in code.
+- Reading excel file data(x,y,z axes points)
+- Printing average of x,y,z axes
 
 ##########################################################.
