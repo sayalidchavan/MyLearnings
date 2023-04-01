@@ -6,7 +6,11 @@
 ##########################################################.
 
 ##################### Purpose of code ########################.
+1.Read_Excel_data.py file contains below info:
 - Reading excel file data(x,y,z axes points)
 - Printing average of x,y,z axes
+2.Create_dictionary.py file contains below info:
+- How to create dictionary.
+- print data from dictionary.
 
 ##########################################################.
