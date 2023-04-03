@@ -19,7 +19,7 @@
 3.Loops_Conditions_for_Loop.py contains below info:
 - take input as length of list
 - create list for length
-- append items to list using append()
+- append items to list using append() and for loop
 - create dictionaries inside list
 - print the data using condition-for loop
 
@@ -29,5 +29,19 @@
 - inside 1st fun used while loop and create list and append values in list. 
 - in 2nd fun print list using while loop.
 - call the defined functions
+
+5.listinlist.py contains below info:
+- how to create list.
+- append items to list using append().
+- access items of list.
+- replace items of list
+- convert list to tuple using tuple().
+
+6.while.py contains below info:
+- take input as length of list
+- create list for length
+- append items to list using append() and while loop
+- create dictionaries inside list
+- print the data using condition-while loop
 
 ##########################################################.
