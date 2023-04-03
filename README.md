@@ -16,4 +16,11 @@
 - print data from dictionary.
 - Access value of dictinary using key.
 
+3.Loops_Conditions_for_Loop.py contains below info:
+- take input as length of list
+- create list for length
+- append items to list using append()
+- create dictionaries inside list
+- print the data using condition-for loop
+
 ##########################################################.
