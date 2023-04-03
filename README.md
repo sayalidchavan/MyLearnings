@@ -23,4 +23,11 @@
 - create dictionaries inside list
 - print the data using condition-for loop
 
+4.functin.py
+- first fun:cretae list
+- 2nd fun:printing list
+- inside 1st fun used while loop and create list and append values in list. 
+- in 2nd fun print list using while loop.
+- call the defined functions
+
 ##########################################################.
