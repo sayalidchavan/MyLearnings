@@ -12,7 +12,8 @@
 - Printing average of x,y,z axes.
 
 2.Create_dictionary.py file contains below info:
-- How to create dictionary.
+- How to create dictionary using curly braces(key , value) pair and dict() constructor
 - print data from dictionary.
+- Access value of dictinary using key.
 
 ##########################################################.
